@@ -19,3 +19,21 @@ header>nav{
 #logo{
     color: deepskyblue;
 }
+
+section{
+
+}
+
+ /*-----------home-------------*/
+
+section>div>div>div>div>h5{
+    color: #d0d7d7;
+    font-size: 30px;
+}
+
+section>div>div>div>div>p{
+    color: darkblue;
+    font-size: 20px;
+
+}
+
