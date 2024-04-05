@@ -1,0 +1,21 @@
+*{
+    font-family:AppleSystemUIFont;
+
+
+}
+html{
+overflow-x: hidden;
+}
+
+header{
+    background: #b43434;
+    box-shadow: black;
+
+}
+header>nav{
+    background: aqua;
+}
+
+#logo{
+    color: deepskyblue;
+}
