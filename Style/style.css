@@ -88,7 +88,15 @@ body>section:nth-child(3)>div>div>div:nth-child(2)>div>p:nth-child(4){
     font-size: 50px;
 }
 
+#conatct{
+    background-color:#4f7280 ;
+}
 
+#conatct h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
 
 
 
