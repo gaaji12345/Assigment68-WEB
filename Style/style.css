@@ -55,6 +55,32 @@ body>section:nth-child(3)>div>div>div:nth-child(2)>div>p:nth-child(4){
     color: #130101;
 }
 
+#room{
+    background-color:#4f7280 ;
+}
+#room h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+#room .card{
+    background-color: black;
+    /*opacity: .1;*/
+}
+
+.card .card-body>h5{
+    color: aqua;
+}
+.card .card-body>p{
+    color: #d9e3e3;
+}
+
+.card .card-footer{
+    background-color: white;
+}
+
+
+
 
 
 
